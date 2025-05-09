@@ -1,0 +1,38 @@
+{
+    "sonID": 4,
+    "anketler": [
+        {
+            "anketID": 1,
+            "baslik": "Anket1",
+            "aciklama": "Ilk anketim",
+            "sorular": [
+                {
+                    "soru": "Naber",
+                    "cevap": "Iyi, senden"
+                }
+            ]
+        },
+        {
+            "anketID": 2,
+            "baslik": "Anket2",
+            "aciklama": "Ikinci anketim",
+            "sorular": [
+                {
+                    "soru": "Turkiyenin baskenti neresidir",
+                    "cevap": "Ankara"
+                }
+            ]
+        },
+        {
+            "anketID": 4,
+            "baslik": "Anket4",
+            "aciklama": "Dorduncu anketim",
+            "sorular": [
+                {
+                    "soru": "8 * 6",
+                    "cevap": "48"
+                }
+            ]
+        }
+    ]
+}
